@@ -1,0 +1,68 @@
+/*
+* @Author: root
+* @Date:   2019-04-25 23:07:19
+* @Last Modified by:   H-f-society
+* @Last Modified time: 2019-05-01 14:16:25
+*/
+body { background-color: #4B4A4A; }
+div {
+	width: 570px;
+	height: 650px;
+	margin: auto;
+	position: relative;
+}
+h1 {
+	text-align: center;
+	color: #0CD5E0;
+	font-family: 华文行楷;
+	text-shadow: 5px 5px 2px red;
+}
+canvas {
+	background-image: url(../image/background02.jpg);
+	background-size: 100% ;
+	box-shadow: 10px 10px 10px ;
+	border-radius: 10px;
+	position: absolute;
+	left: 0px;
+	bottom: -20px;
+}
+#box1 {
+	background-image: url();
+}
+button {
+	width:  110px;
+	height: 25px;
+	margin: 5px;
+	border-radius:  10px;
+	border: 1px solid #000;
+	outline: none;
+	color: #FFF;
+	font-size: 17px;
+	line-height: 25px;
+	font-family: 华文行楷;
+	background-color: #4D3403;
+}
+#now {
+	width: 25px;
+	height: 25px;
+	margin: 5px 25px;
+	border: 0px;
+	border-radius: 50%;
+	background-image: url(../image/black.png);
+	background-size: 100% 100%;
+	float: left;
+}
+#eat_number {
+	position: absolute;
+	width: 80px;
+	height: 100px;
+	top: 100px;
+	left: -82px;
+	color: #FFF;
+}
+img {
+	width: 25px;
+	height:  25px;
+	float: left;
+	margin-right: 10px;
+}

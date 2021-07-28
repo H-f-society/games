@@ -1,0 +1,29 @@
+/*
+* @Author: root
+* @Date:   2020-02-04 03:28:47
+* @Last Modified by:   H-f-society
+* @Last Modified time: 2020-02-22 13:32:35
+*/
+body {
+	background-color: #000000;
+}
+#GameBox {
+	position: relative;
+}
+canvas {
+	position: absolute;
+}
+#updateRole {
+	width: 400px;
+	height: 100px;
+	z-index: 5;
+	position: absolute;
+	top: 270px;
+	left: 120px;
+	background: rgba(0, 0, 0, 0.5);
+	display: none;
+}
+#updateRole img {
+	width: 96px;
+	height: 96px;
+}

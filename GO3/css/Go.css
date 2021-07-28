@@ -1,0 +1,20 @@
+/*
+* @Author: H-f-society
+* @Date:   2020-03-12 11:44:46
+* @Last Modified by:   H-f-society
+* @Last Modified time: 2020-03-17 00:27:09
+*/
+#GameBox {
+	width: 570px;
+	height: 650px;
+	margin: auto;
+	position: relative;
+}
+#box1, #box2 {	
+	background-size: 100% ;
+	box-shadow: 10px 10px 10px ;
+	border-radius: 10px;
+	position: absolute;
+	left: 0px;
+	top: 20px;
+}

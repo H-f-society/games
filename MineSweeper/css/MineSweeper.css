@@ -1,0 +1,17 @@
+/*
+* @Author: H-f-society
+* @Date:   2020-02-16 21:40:37
+* @Last Modified by:   root
+* @Last Modified time: 2020-04-07 22:33:21
+*/
+body {
+	background-color: #000000;
+}
+canvas { float: left; }
+#showData {
+	width: 180px;
+	height: 150px;
+	float: left;
+	background: #FFFFFF;
+
+}

@@ -1,0 +1,27 @@
+/*
+* @Author: root
+* @Date:   2019-10-04 22:05:05
+* @Last Modified by:   root
+* @Last Modified time: 2019-10-05 15:35:32
+*/
+body {
+	background-color: #363E3F;
+}
+#box {
+	width: 501px;
+	height: 501px;
+	margin: 100px auto;
+	background-color: #000;
+}
+#box span {
+	width: 165px;
+	height: 165px;
+	float: left;
+	margin: 1px;
+	background-color: #FFF;
+	font-size: 150px;
+	text-align: center;
+	user-select: none;
+	line-height: 165px;
+	font-family: 华文行揩;
+}
